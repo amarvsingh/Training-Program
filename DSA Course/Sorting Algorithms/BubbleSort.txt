@@ -1,0 +1,4 @@
+Least efficient alorithm:
+Copmplexity: O(N)
+
+

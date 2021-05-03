@@ -1,0 +1,3 @@
+When the order of dublicate items  not maintained it is said to be as unstable sorting.
+
+==> Bubble Sort: Stable Algorithm.

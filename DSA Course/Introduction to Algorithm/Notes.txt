@@ -1,0 +1,8 @@
+Arrays Big-O Operations:
+It takes only 3 steps to retrieve any index in ana array
+1. To retrieve element: O(1)
+
+Disadvantages:
+1. Cannot locate with the value, index is required, have to loop all over to check, we cannot jump
+
+==> ALL THE ARRAY OPERATION COMPLEXITIES ARE IN UDEMY NOTES 7:36, VIDEO 15
